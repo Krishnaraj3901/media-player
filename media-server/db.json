@@ -1,0 +1,55 @@
+{
+  "videos": [],
+  "categories": [
+    {
+      "categoryName": "movie",
+      "id": 1,
+      "allVideos": [
+        {
+          "id": "11",
+          "caption": "ride",
+          "url": "https://img.freepik.com/premium-photo/motorcyclist-driving-sunset-highway_545448-21008.jpg",
+          "embedLink": "https://www.youtube.com/embed/ms3lK1C5GRo?si=2dz-cPCT7y-f2SYF"
+        },
+        {
+          "id": "13",
+          "caption": "norway",
+          "url": "https://images3.alphacoders.com/111/111299.jpg",
+          "embedLink": "https://www.youtube.com/embed/Omgyuggv-fI?si=7DnsjRZEnoOdrCmb"
+        }
+      ]
+    },
+    {
+      "categoryName": "rides",
+      "id": 2,
+      "allVideos": [
+        {
+          "id": "11",
+          "caption": "ride",
+          "url": "https://img.freepik.com/premium-photo/motorcyclist-driving-sunset-highway_545448-21008.jpg",
+          "embedLink": "https://www.youtube.com/embed/ms3lK1C5GRo?si=2dz-cPCT7y-f2SYF"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "caption": "norway",
+      "embedLink": "https://www.youtube.com/embed/Omgyuggv-fI?si=7DnsjRZEnoOdrCmb",
+      "timeStamp": "11/07/2023, 09:55:32 AM",
+      "id": 1
+    },
+    {
+      "caption": "ride",
+      "embedLink": "https://www.youtube.com/embed/ms3lK1C5GRo?si=2dz-cPCT7y-f2SYF",
+      "timeStamp": "11/07/2023, 10:16:44 AM",
+      "id": 2
+    },
+    {
+      "caption": "norway",
+      "embedLink": "https://www.youtube.com/embed/Omgyuggv-fI?si=7DnsjRZEnoOdrCmb",
+      "timeStamp": "11/08/2023, 11:03:22 AM",
+      "id": 3
+    }
+  ]
+}
